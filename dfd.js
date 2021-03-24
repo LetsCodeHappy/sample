@@ -8,7 +8,7 @@
 Input: s = "3+2*2"
 Output: 7
 
-Input: s = " 3/2 "
+Input: s = " 3/2 "     // what is this
 Output: 1
 
 Input: s = " 3+5 / 2 "
